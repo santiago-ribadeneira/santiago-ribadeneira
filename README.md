@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am originally from Ecuador and currently living in Spokane, Washington. I hold a double major in Finance and French from Alma College in Michigan and a Master of Science in Business Analytics from Gonzaga University.<br><br>Passionate about data, I enjoy working with datasets, writing in Python, and creating compelling data visualizations to uncover the stories behind the numbers. I also love using coding languages to automate tasks, improve efficiency, and solve real-world problems.<br><br>Always eager to learn and explore new ways to leverage data for impactful decision-making.<br><br>- 🔭 I’m working as an Administrative Assistant and Financial Data Specialist at the Center for Global Engagement at Gonzaga University.<br>- 📚 I’m currently enhancing my skills in storytelling, advanced visualization techniques, and task automation using Python and other tools.<br>- ⚡ In my free time, I enjoy watching soccer and Formula 1, and I’m particularly fascinated by the analytics behind sports.</p>
+<p align="left">I am originally from Ecuador and currently living in Spokane, Washington. I hold a double major in Finance and French from Alma College in Michigan and a Master of Science in Business Analytics from Gonzaga University.<br><br>Passionate about data, I enjoy working with datasets, writing in Python, and creating compelling data visualizations to uncover the stories behind the numbers. I also love using coding languages to automate tasks, improve efficiency, and solve real-world problems.<br><br>Always eager to learn and explore new ways to leverage data for impactful decision-making.<br><br>- 🔭 I’m working as an Administrative Assistant and Financial Data Specialist at the Center for Global Engagement at Gonzaga University.<br>- 📚 I’m currently enhancing my skills in storytelling, advanced visualization techniques, and task automation with Python and other tools.<br>- ⚡ In my free time, I enjoy watching soccer and Formula 1, and I’m particularly fascinated by the analytics behind sports.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
